@@ -74,6 +74,8 @@ Will add the possibility to remove specific folders
 
 Will add the possibility to remove automatically the backups older than X days
 
+Will add the the compression of files automatically
+
 
 ## Authors
 
