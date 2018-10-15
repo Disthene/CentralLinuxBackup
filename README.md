@@ -62,11 +62,11 @@ Always leave the tool using "q" to log the changes.
 
 ## Versioning
 
-Ver 1.0 
+#### Ver 1.0 
 
 Current Version
 
-Coming Ver 1.1 
+#### Coming Ver 1.1 
 
 Will add the possibility to remove specific folders
 
