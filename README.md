@@ -18,7 +18,7 @@ A svc account on central server and same account on each machine. Better use a L
 
 ## Installing
 
-Extract the folder "backup" in /etc for example on your central server.
+Extract the archive "backup" in /etc for example on your central server.
 
 ```
 /etc/backup
