@@ -22,6 +22,12 @@ Extract the archive "backup" in /etc for example on your central server.
 
 ```
 /etc/backup
+/etc
+  -/backup
+    -/log
+    -/ServersBackup
+    -Backup.py
+    -config.txt
 ```
 Change the account set in the script to fit your needs. Open Backup.py and modify line 9 and 10 :
 ```
