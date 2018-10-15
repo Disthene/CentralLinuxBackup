@@ -70,6 +70,8 @@ Coming Ver 1.1
 
 Will add the possibility to remove specific folders
 
+Will add the possibility to remove automatically the backups older than X days
+
 
 ## Authors
 
