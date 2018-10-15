@@ -77,6 +77,8 @@ Will add the possibility to remove specific folders
 
 See also the list of [contributors](https://github.com/Disthene/CentralLinuxBackup/contributors) who participated in this project.
 
+##### If you want to contribute feel free, all lines are commented. Let me know your improvements ;)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
