@@ -98,7 +98,7 @@ Will add the the compression of files automatically
 
 See also the list of [contributors](https://github.com/Disthene/CentralLinuxBackup/contributors) who participated in this project.
 
-##### If you want to contribute feel free, all lines are commented. Let me know your improvements ;)
+##### If you want to contribute feel free, all lines are commented. Let me know your improvements ;) You can join by github for any request.
 
 ## License
 
