@@ -14,7 +14,7 @@ Install crontab for python3
 ```
 python3 -m pip install python-crontab
 ```
-A svc account on central server and same account on each machine. Better use a LDAP account with rights.
+A svc account on central server and same account on each machine. Better use a LDAP account with ssh rights.
 
 ## Installing
 
