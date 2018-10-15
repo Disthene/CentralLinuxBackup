@@ -34,7 +34,7 @@ sudo python3 /etc/backup/Backup.py
 
 To add a backup press "n" once you started the tool. 
 
-First you'll be prompt to enter the name, or IP of the server. I do not handle errors there so take care for the moment. I just check if the server exists or not.
+First you'll be prompt to enter the name, or IP of the server. The script will check if the server is reachable.
 
 Second enter the path of the folder you want to backup. Again here I don't handle errors, and do not verify yet if the path exists.
 
