@@ -14,7 +14,7 @@ Install crontab for python3
 ```
 python3 -m pip install python-crontab
 ```
-Use a svc account on your machines.
+A svc account on central server and same account on each machine. Better use a LDAP account with rights.
 
 ## Installing
 
@@ -55,6 +55,8 @@ To check the current backup configured press "c" once you started the tool. It w
 ###### Best practice
 
 Always leave the tool using "q" to log the changes.
+
+It is possible for most experienced user to modify this script to not use account to remotely backup server but to use public keys.
 
 ## Built With
 
