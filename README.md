@@ -23,7 +23,7 @@ Extract the archive "backup" in /etc for example on your central server.
 ```
 /etc/backup
 ```
-Change the account set in the script to fit your needs. Open Bacup.py and modify :
+Change the account set in the script to fit your needs. Open Backup.py and modify line 9 and 10 :
 ```
 svcaccount='YOURSERVICEACCOUNT'
 password='YOURPASSWORD'
