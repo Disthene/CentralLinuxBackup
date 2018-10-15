@@ -44,7 +44,7 @@ Third is the repetition of your backup, here I use Cron so for the moment it's n
 
 To delete a backup press "d" once you started the tool.
 
-You'll be prompt to enter the name of the server you want to delete. Notice it will move all current backup configured on this server. If you want to remove a specific folder do it manually by removing the script created in /etc/backup/yourserver/yourserver+dateyouplannedit.py and remove the line in config file.
+You'll be prompt to enter the name of the server you want to delete. Notice it will remove all current backup configured on this server. If you want to remove a specific folder do it manually by removing the script created in /etc/backup/yourserver/yourserver+dateyouplannedit.py and remove the line in config file.
 
 A way to remove specific folders from planned backup will be added in the next versions.
 
